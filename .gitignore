@@ -1,0 +1,45 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.lock
+*.ide
+Test.txt
+*.SMSand EMAILService.cs.csproj
+
+VKO.Web/package-lock.json
+*.txt
+WYNK.Services/ErrorLog
+*.v2
+*.json
+*.json
+*.config
+*.v2
+WYNK.Services/.config
+WYNK.Services/bin
+WYNK.Services/ErrorLog
+WYNK.Services/obj
+WYNK.Services/Properties
+WYNK.Services/appsettings.Development
+WYNK.Services/appsettings
+WYNK.Services/Program.cs
+WYNK.Services/Startup.cs
+WYNK.Services/WYNK.Services.csproj
+WYNK.Services/WYNK.Services.csproj.user
+*.vs
+*.git
+WYNK.Loggers/WYNK.Loggers.csproj
+WYNK.Helpers/bin
+WYNK.Helpers/obj
+WYNK.Helpers/Properties
+WYNK.Helpers/WYNK.Helpers.csproj
+WYNK.Helpers/WYNK.Helpers.csproj.user
+SMSand EMAILService.cs/bin
+SMSand EMAILService.cs/obj
+SMSand EMAILService.cs/SMSand EMAILService.cs.csproj
+*.Class1.cs
+WYNK.Data/bin
+WYNK.Data/obj
+WYNK.Data/WYNK.Data.csproj
+WYNK.sln
+WYNK.Data/Repository/bin
